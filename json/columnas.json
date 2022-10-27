@@ -1,0 +1,16 @@
+[
+    {"name":"id","title":"ID","breakpoints":"xs sm","type":"number","style":{"width":80,"maxWidth":80}},
+    {"name":"Documento","title":"Documento"},
+    {"name":"Enero","title":"Enero","breakpoints":"xs sm md"},
+    {"name":"Febrero","title":"Febrero","breakpoints":"xs sm md"},
+    {"name":"Marzo","title":"Marzo","visible":true,"filterable":false},
+    {"name":"Abril","title":"Abril","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
+    {"name":"Mayo","title":"Mayo","type":"date","breakpoints":"xs sm md","formatString":"MMM YYYY"},
+    {"name":"Junio","title":"Junio","type":"date","breakpoints":"xs sm md","formatString":"DD MMM YYYY"},
+    {"name":"Julio","title":"Julio","type":"date","breakpoints":"xs sm md","formatString":"DD MMM YYYY"},
+    {"name":"Agosto","title":"Agosto","breakpoints":"xs sm md"},
+    {"name":"Septiembre","title":"Septiembre","breakpoints":"xs sm md"},
+    {"name":"Octubre","title":"Octubre","breakpoints":"xs sm md"},
+    {"name":"Noviembre","title":"Noviembre","breakpoints":"xs sm md"},
+    {"name":"Diciembre","title":"Diciembre","breakpoints":"xs sm md"}
+  ]
